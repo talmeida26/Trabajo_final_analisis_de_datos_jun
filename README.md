@@ -88,3 +88,8 @@ Fuente: Education Profiles – Colombia y legislación educativa nacional.
 - Power BI
 - Mysql
 
+## Links
+
+Link Trello: https://trello.com/b/07K4e8Wj/datathon-parte-inicial
+
+Link presentación canva: https://www.canva.com/design/DAGpQstZj50/5L3pOUzDUPWjyfcGnqpm8A/edit
